@@ -7,3 +7,4 @@ implementation of several ML algorithms from scratch
 4.) Multinomial naive bayes, gaussian naive bayes, k-means clustering
 5.) RNN + LSTM
 6.) Adversarial Training
+7.) Progressive Born Again Networks
